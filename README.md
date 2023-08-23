@@ -36,22 +36,22 @@ HTML 태그 정리<br>
 
 ​
 
-<br> :  새로운 줄 출력<br>
+br :  새로운 줄 출력<br>
 
-<hr> : 세로 라인<br>
+hr : 세로 라인<br>
 
-<h1> : Heading 제목 태그 / h1~ h6 까지 있음<br>
+h1 : Heading 제목 태그 / h1~ h6 까지 있음<br>
 
-<p> : Paragraphs 약자<br>
+p : Paragraphs 약자<br>
 
-<ul> : 순서 없는 리스트 unordered list<br>
+ul : 순서 없는 리스트 unordered list<br>
 
-<o1> : 순서 있는 리스트 ordered list<br>
+o1 : 순서 있는 리스트 ordered list<br>
 
-<li> : ul, ol 목록에 각 항목을 정의할 때<br>
+li : ul, ol 목록에 각 항목을 정의할 때<br>
 
-<a> :  링크연결 태그 <a href="https://www.daum.net">다음</a><br>
+a :  링크연결 태그 <a href="https://www.daum.net">다음</a><br>
 
-<img> : 이미지 등록 태그 <img src="뉴욕.jfif"><br>
+img : 이미지 등록 태그 <img src="뉴욕.jfif"><br>
 
 교차 사용 가능 <a href="주소"><img src="뉴욕.jfif" alt=""></a><br>

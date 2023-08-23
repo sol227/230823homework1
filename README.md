@@ -1,15 +1,57 @@
 ### HTML 기본 내용 요약 정리 ###
-Hyper-text 문서를 만들기 위한 WWW의 표준양식<br>
-태그에 의해 정의되는 요소와 그 속성으로 구성<br>
-태그 : <태그명> 로 구성, 속성(attribute) : 속성 명=값<br>
-태그(Tag) : HTML문서 요소의 형식, 특성 등을 정의하는 명령<br>
-문자, 문단, head, table, list, URL 등을 정의<br>
-대소문자 구별 없음<br>
-브라우저가 태그의 정의에 따라 포맷하여 보여 줌<br>
-줄 바꾸기, tab 문자, 하나 이상의 연속된 공백문자는 무시
-구조적 언어<br>
-시작 태그(< 태그명 >)와 종료 태그(</태그명 >)로 블록화 됨<br>
-태그들을 중첩으로 사용 가능<br>
-태그들을 엇갈리게 사용할 수 없음<br>
+HTML : Hypertext Markup Language<br>
+Element로 구성 된 요소의 집합이 html 문서이다. <br>
 
-파일 확장자 : 파일명.html 또는 파일명.htm<br>
+​Tag :  < > <br>
+
+HTML Elements  :  < > 컨텐트 < >로 이루어진 문장<br>
+
+element는 시작태그, 종료태그, 컨텐트로 구성된다.<br>
+
+empty element는 시작태그만 있다.  ex) <br><br>
+
+​
+
+주석 : <!-- 주석으로 처리된 내용 -->    단축키 ctrl + /<br>
+
+브라우저에 출력되지 않는 값 (메모 용도로 사용)<br>
+
+주석은 코드보기로 볼 수 있으니 민감한 정보 작성 금지<br>
+
+​
+
+태그 안에 space키는 하나만 출력<br>
+
+태그 안에 enter는 출력 안함 또는 여러 space로 출력<br>
+
+여러 space를 쓰고 싶다면 entity(특수기호) 사용<br>
+
+-   &nbsp; 공백<br>
+
+​
+
+ 
+
+HTML 태그 정리<br>
+
+​
+
+<br> :  새로운 줄 출력<br>
+
+<hr> : 세로 라인<br>
+
+<h1> : Heading 제목 태그 / h1~ h6 까지 있음<br>
+
+<p> : Paragraphs 약자<br>
+
+<ul> : 순서 없는 리스트 unordered list<br>
+
+<o1> : 순서 있는 리스트 ordered list<br>
+
+<li> : ul, ol 목록에 각 항목을 정의할 때<br>
+
+<a> :  링크연결 태그 <a href="https://www.daum.net">다음</a><br>
+
+<img> : 이미지 등록 태그 <img src="뉴욕.jfif"><br>
+
+교차 사용 가능 <a href="주소"><img src="뉴욕.jfif" alt=""></a><br>
